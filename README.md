@@ -1,5 +1,7 @@
 # Encoding Swiss Army Knife
 
+![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white) ![Tests](https://img.shields.io/badge/Tests-77%20passing-brightgreen) ![License](https://img.shields.io/badge/License-MIT-green)
+
 A command-line tool for encoding, decoding, and auto-detecting text across
 seven common formats — Base64, URL-safe Base64, Hex, Binary, URL-percent,
 HTML entities, and ROT13.
@@ -211,14 +213,6 @@ since all hex digits are valid Base64 characters.
 
 ---
 
-## Learning Objectives
-
-- [ ] Understand what Base64 encodes — it is *encoding*, not *encryption*
-- [ ] Understand the difference between Base64 and URL-safe Base64
-- [ ] Understand why percent-encoding exists and where it is used
-- [ ] Understand HTML entity encoding and its role in XSS prevention
-- [ ] Understand why encoded data appears in malware, JWT tokens, and phishing payloads
-
 ---
 
 ## References
@@ -235,4 +229,3 @@ MIT — see [LICENSE](LICENSE).
 
 ---
 
-*NullAI Lab — Encoding Swiss Army Knife*
